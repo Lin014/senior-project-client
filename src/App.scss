@@ -1,0 +1,18 @@
+@import "~bootstrap/scss/bootstrap.scss";
+@import './custom.scss';
+
+.App {
+  padding: 20px;
+}
+
+.text-center-algin {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}
+
+.update-block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
